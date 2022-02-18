@@ -1,4 +1,4 @@
-#Learning GIT and GITHUB
+# Learning GIT and GITHUB
 
 git init
 
